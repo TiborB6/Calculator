@@ -33,6 +33,8 @@ body{
 .input-field > input {
     width: 100%;
     height: 120%;
+
+    text-align: end;
 }
 
 .buttons {
@@ -59,8 +61,6 @@ body{
     border: none;
     padding: 0;
     margin: 0;
-    outline: none; 
-    text-decoration: none;
 
     box-shadow: 2px 2px 4px rgba( 0, 0, 0, 0.7);;
 }
